@@ -1,4 +1,4 @@
-pogoball
+Powerlifting
 ========
 
-A paintball plugin for minecraft
+Creating my first GitHub Repository by: Tyler Ramsay
