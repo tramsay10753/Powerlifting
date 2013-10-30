@@ -1,4 +1,4 @@
 Powerlifting
 ========
 
-Creating my first GitHub Repository by: Tyler Ramsays
+Creating my first GitHub Repository by: Tyler Ramsay
